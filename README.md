@@ -29,6 +29,7 @@
 
 ## Sommaire
 
+- [Présentation complète du projet](./docs/OCNP_presentation_publique_complete.md)
 - [Pourquoi OCNP ?](#pourquoi-ocnp-)
 - [Genèse du projet](#genèse-du-projet)
 - [Ce qu'OCNP veut couvrir](#ce-quocnp-veut-couvrir)
@@ -324,6 +325,10 @@ La Famille Maghen, selon la gouvernance de l'association. La communauté peut pr
 - **Site web :** [https://maghen.eu](https://maghen.eu)
 - **Contact :** [contact@maghen.eu](mailto:contact@maghen.eu)
 - **Mentions légales :** [https://maghen.eu/mentions-legales/](https://maghen.eu/mentions-legales/)
+- **Présentation complète :** [docs/OCNP_presentation_publique_complete.md](./docs/OCNP_presentation_publique_complete.md)
+- **Contribuer :** [CONTRIBUTING.md](./CONTRIBUTING.md)
+- **Code de conduite :** [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+- **Sécurité :** [SECURITY.md](./SECURITY.md)
 - **Odoo Community Association (OCA) :** [https://odoo-community.org/](https://odoo-community.org/)
 - **Documentation Odoo 19.0 :** [https://www.odoo.com/documentation/19.0/](https://www.odoo.com/documentation/19.0/)
 

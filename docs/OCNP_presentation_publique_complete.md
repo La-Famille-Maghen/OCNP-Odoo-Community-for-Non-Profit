@@ -1,5 +1,9 @@
 # OCNP — Odoo Community For Non Profit
 
+<p align="center">
+  <img src="https://maghen.fr/assets/img/lfm-ocnp-odoo-community-for-non-profit.webp" alt="OCNP — Odoo Community For Non Profit" width="600" />
+</p>
+
 > **Un projet open source au service des associations : rapprocher les outils de gestion dans un environnement intégré, fondé sur Odoo Community.**
 >
 > **Statut du projet — novembre 2026 : première version en test interne au sein de La Famille Maghen.** Le projet n'est pas encore ouvert au téléchargement public. Aucune date de publication n'est annoncée. La priorité est de vérifier les fonctions, les dépendances, la sécurité, les droits de diffusion et la documentation avant toute mise à disposition.

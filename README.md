@@ -6,6 +6,10 @@
 > **État du projet : première version en test interne.** OCNP n'est pas encore publié comme distribution stable et prête à installer. Le dépôt public est en cours de préparation. Les fonctionnalités, les modules complémentaires, les licences, la sécurité et la documentation doivent être vérifiés avant une première diffusion. Aucune date de publication n'est annoncée.
 
 <p align="center">
+  <img src="https://maghen.fr/assets/img/lfm-ocnp-odoo-community-for-non-profit.webp" alt="OCNP — Odoo Community For Non Profit" width="600" />
+</p>
+
+<p align="center">
   <strong>Unir pour bâtir, ensemble pour toujours.</strong><br>
   <em>Solidarité · Travail · Développement</em>
 </p>
